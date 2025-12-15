@@ -4,7 +4,7 @@
 three approaches 
 1. Approach 1: Substring + Repeat (Brute Force / Beginner) //beginer
 2. Approach 2: Array / Modulo Comparison (Efficient – Your Idea) //dsa
-3. 
+3. Approach 3: String Trick (Most Optimized & Elegant) //interview
 ```cpp
 class Solution {
 public:
@@ -52,4 +52,19 @@ public:
         return false;
     }
 };
-```cppcpp
+//Time: O(n²)
+//Best for DSA practice
+
+```cpp
+class Solution {
+public:
+    bool repeatedSubstringPattern(string s) {
+        string t = s + s;
+        return t.find(s, 1) < s.size();
+    }
+};
+//Time: O(n)
+//Space: O(n)
+//Most asked in interviews
+```
+
