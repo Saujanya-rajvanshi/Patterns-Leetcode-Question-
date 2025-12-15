@@ -64,7 +64,7 @@ public:
 //Best for DSA practice
 ```
 
-#approach-1-brute-force
+##approach-1-brute-force
 ```cpp
 class Solution {
 public:
