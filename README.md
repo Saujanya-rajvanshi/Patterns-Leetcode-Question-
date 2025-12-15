@@ -2,6 +2,8 @@
 
 ## INDEX
 1. abab patern in string
+- [abab patern in string](#ABAB-PATTERN-IN-STRING)
+   
 
 ### ABAB PATTERN IN STRING 
 three approaches 
