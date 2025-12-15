@@ -1,5 +1,8 @@
 # Patterns-Leetcode-Question-
 
+## INDEX
+1. abab patern in string
+
 ### ABAB PATTERN IN STRING 
 three approaches 
 1. Approach 1: Substring + Repeat (Brute Force / Beginner) //beginer
@@ -54,6 +57,7 @@ public:
 };
 //Time: O(n²)
 //Best for DSA practice
+```
 
 ```cpp
 class Solution {
