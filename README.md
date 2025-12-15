@@ -8,11 +8,8 @@
 ### ABAB PATTERN IN STRING 
 three approaches 
 1. Approach 1: Substring + Repeat (Brute Force / Beginner) //beginer
-2. Approach 2: Array / Modulo Comparison (Efficient – Your Idea) //dsa
-3. Approach 3: String Trick (Most Optimized & Elegant) //interview
-- [Brute Force](#approach-1-brute-force)
-- [Modulo Method](#approach-2-array--modulo-comparison)
-- [Optimized Trick](#approach-3-string-trick)
+3. Approach 2: Array / Modulo Comparison (Efficient – Your Idea) //dsa
+4. Approach 3: String Trick (Most Optimized & Elegant) //interview
 
 
 ```cpp
