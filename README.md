@@ -1,4 +1,4 @@
-# Patterns-Leetcode-Question-
+# Leetcode-Question-
 
 ## INDEX
 1. - [abab patern in string](#ABAB-PATTERN-IN-STRING)
